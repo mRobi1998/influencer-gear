@@ -3,6 +3,11 @@ body{
     font-family: 'Poppins', sans-serif;
     
 }
+.top-heading{
+    margin-left: 7%;
+    font-size: 24px;
+    margin-top: 5%;
+}
 
 .container{
     display: flex;
@@ -148,6 +153,10 @@ h1{
 
 
 @media only screen and (max-width:688px ) {
+    .top-heading{
+        margin-left: 15%;
+
+    }
     .container{
         width: 100%;
         display: flex;
@@ -181,6 +190,9 @@ h1{
 }
 /* media query for tablet */
 @media only screen and (min-width:789px) and (max-width: 992px) {
+    .top-heading{
+        margin-left: 12%;
+    }
     .container{
         width: 100%;
         display: flex;
