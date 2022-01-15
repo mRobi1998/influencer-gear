@@ -135,10 +135,10 @@ h1{
     width: 100%;
     border: 1px solid gray;
     background-color: black;
-    color: green;
+    color:green;
     border-radius: 20px;
     font-size: 24px;
-    font-weight: 700;
+    font-weight: bold;
 }
 
 /* footer style sheets */
