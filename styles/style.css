@@ -3,6 +3,9 @@ body{
     font-family: 'Poppins', sans-serif;
     
 }
+/* **********************************
+            top part area
+****************************************** */
 .top-heading{
     margin-left: 7%;
     font-size: 24px;
@@ -66,7 +69,9 @@ h1{
     margin-left: 5px;
     
 }
-/* popular collection style end */
+/* ***********************************
+popular collection style end
+***********************************************/
 
 .product-section{
     margin-top: 100px;
@@ -126,6 +131,7 @@ h1{
 
 }
 
+
 .text-scroller{
     margin-top: 50px;
     padding-top: 20px;
@@ -141,7 +147,9 @@ h1{
     font-weight: bold;
 }
 
-/* footer style sheets */
+/* **************************
+footer style sheets
+***************************** */
 
 .footer-part{
     margin-top: 50px;
@@ -166,7 +174,9 @@ h1{
 .icon{
     padding-right: 10px;
 }
-/*media queries for responsive style for mobile */
+/***************************
+media queries for responsive style for mobile
+**************************************************************** */
 
 
 @media only screen and (max-width:688px ) {
@@ -213,7 +223,9 @@ h1{
    
     
 }
-/* media query for tablet */
+/* *******************************
+media query for tablet 
+**********************************/
 @media only screen and (min-width:789px) and (max-width: 992px) {
     .top-heading{
         margin-left: 12%;
